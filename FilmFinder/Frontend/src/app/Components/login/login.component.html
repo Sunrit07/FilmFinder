@@ -1,0 +1,44 @@
+<app-header></app-header>
+
+<div class="login-container">
+  <div class="loginForm">
+  <mat-card class="login-card">
+
+    <div class="login-image">
+      <img class="imageClass" src="../../../assets/images/pxfuel.jpg" alt="Hey">
+    </div>
+
+    <form [formGroup]="loginForm" (ngSubmit)="onSubmit()">
+      <mat-card-title>LOGIN</mat-card-title>
+      <mat-form-field appearance="outline">
+        <mat-label>Email</mat-label>
+        <input matInput formControlName="email" type="email" />
+        <mat-error *ngIf="loginForm.controls['email'].invalid && (loginForm.controls['email'].dirty || loginForm.controls['email'].touched)">
+          <ng-container *ngIf="loginForm.controls['email'].errors?.['required']">Email is required.</ng-container>
+          <ng-container *ngIf="loginForm.controls['email'].errors?.['email']">Invalid email format.</ng-container>
+        </mat-error>
+      </mat-form-field>
+
+      <mat-form-field appearance="outline">
+        <mat-label>Password</mat-label>
+        <input matInput formControlName="password" type="password" />
+        <mat-error *ngIf="loginForm.controls['password'].invalid && (loginForm.controls['password'].dirty || loginForm.controls['password'].touched)">
+          <ng-container *ngIf="loginForm.controls['password'].errors?.['required']">Password is required.</ng-container>
+          <ng-container *ngIf="loginForm.controls['password'].errors?.['minlength']">Password must be at least 6 characters long.</ng-container>
+        </mat-error>
+      </mat-form-field>
+
+      <div class="loginButton">
+        <button mat-raised-button color="primary" type="submit" [disabled]="loginForm.invalid">Login</button>
+
+      </div>
+
+      <div class="register-link">
+        <a routerLink="/register">Don't Have an Account Yet?</a>
+      </div>
+
+    </form>
+  </mat-card>
+
+</div>
+</div>

@@ -1,0 +1,55 @@
+<app-userheader></app-userheader>
+<div class="loading" *ngIf="isLoading">
+  <img src="../../../../../assets/images/loading.gif">
+</div>
+
+<div *ngIf="!isLoading && !noData">
+<div class="container" style="padding-top: 80px;">
+  
+  
+  <div class="container mt-4 d-flex justify-content-center"></div>
+    <div class="col-md-6">
+      <div class="input-group mb-3">
+        <input type="text" [(ngModel)]="searchQuery" placeholder="Search Movies..." class="form-control" (ngModelChange)="searchMovie()" />
+        <button class="btn btn-primary search-btn" type="button" (click)="searchMovie()">Search</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Movies List Section -->
+  <div class="row p-3" >
+    <mat-card class="col-3 mb-4" style="padding: 0px; margin: 0px;" *ngFor="let movie of filteredMovies | paginate: { itemsPerPage: 8, currentPage: p };" appearance="outlined">
+      <img mat-card-image [src]="movie.moviePicture" alt="{{movie.movieName}} image" class="movie-image">
+      <mat-card-content style="margin-bottom: 7px;">
+        <h2 mat-card-title>{{movie.movieName | uppercase}}</h2>
+        <h3 mat-card-subtitle>Synopsis</h3>
+        <p class="synopsis-clamp">{{movie.synopsis}}</p>
+      </mat-card-content>
+      
+      <mat-card-content class="d-flex flex-column gap-2">
+        <p>Release Date: {{movie.releaseDate | date:'yyyy-MM-dd'}}</p>
+        <p>Genre: {{movie.genre}}</p>
+        <p>Cast: {{movie.cast}}</p>
+      </mat-card-content>
+      
+      <mat-card-actions class="buttoncontainer d-flex gap-2">
+        <button mat-button class="action-btn" [routerLink]="['/user-dashboard/user-review', movie.movieId]">Add Review</button>
+        <button mat-button class="action-btn" [routerLink]="['/user-dashboard/user-movieinfo', movie.movieId]">Movie Info</button>
+        <button mat-button class="action-btn" (click)="AddWatchlist(movie.movieId)">Watch list</button>
+      </mat-card-actions>
+    </mat-card>
+  </div>
+
+  <!-- Pagination Controls -->
+  <div>
+    <pagination-controls (pageChange)="p = $event"></pagination-controls>
+  </div>
+
+<div class="loading" *ngIf="noData && !isLoading">
+  <h1>No Data Available</h1>
+</div>
+
+  
+  
+
+<router-outlet></router-outlet>

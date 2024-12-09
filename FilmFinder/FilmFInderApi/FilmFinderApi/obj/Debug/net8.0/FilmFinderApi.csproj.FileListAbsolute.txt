@@ -1,0 +1,323 @@
+C:\Users\user\Desktop\project\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\user\Desktop\project\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\appsettings.json
+C:\Users\user\Desktop\project\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\FilmFinderApi.exe
+C:\Users\user\Desktop\project\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\FilmFinderApi.deps.json
+C:\Users\user\Desktop\project\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\FilmFinderApi.runtimeconfig.json
+C:\Users\user\Desktop\project\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\FilmFinderApi.dll
+C:\Users\user\Desktop\project\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\FilmFinderApi.pdb
+C:\Users\user\Desktop\project\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\user\Desktop\project\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\user\Desktop\project\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\DnsClient.dll
+C:\Users\user\Desktop\project\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\user\Desktop\project\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\user\Desktop\project\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\user\Desktop\project\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\user\Desktop\project\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\user\Desktop\project\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\user\Desktop\project\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\Snappier.dll
+C:\Users\user\Desktop\project\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Desktop\project\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Desktop\project\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Desktop\project\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\user\Desktop\project\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\user\Desktop\project\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\user\Desktop\project\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\user\Desktop\project\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\project\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\project\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\project\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.AssemblyInfo.cs
+C:\Users\user\Desktop\project\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\project\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\project\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\project\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\user\Desktop\project\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\user\Desktop\project\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\staticwebassets\msbuild.FilmFinderApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Desktop\project\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\staticwebassets\msbuild.build.FilmFinderApi.props
+C:\Users\user\Desktop\project\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FilmFinderApi.props
+C:\Users\user\Desktop\project\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FilmFinderApi.props
+C:\Users\user\Desktop\project\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\user\Desktop\project\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\scopedcss\bundle\FilmFinderApi.styles.css
+C:\Users\user\Desktop\project\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFind.D9EB1D71.Up2Date
+C:\Users\user\Desktop\project\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.dll
+C:\Users\user\Desktop\project\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\refint\FilmFinderApi.dll
+C:\Users\user\Desktop\project\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.pdb
+C:\Users\user\Desktop\project\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.genruntimeconfig.cache
+C:\Users\user\Desktop\project\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\ref\FilmFinderApi.dll
+C:\Users\user\Desktop\project\New folder\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\user\Desktop\project\New folder\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\appsettings.json
+C:\Users\user\Desktop\project\New folder\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\FilmFinderApi.exe
+C:\Users\user\Desktop\project\New folder\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\FilmFinderApi.deps.json
+C:\Users\user\Desktop\project\New folder\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\FilmFinderApi.runtimeconfig.json
+C:\Users\user\Desktop\project\New folder\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\FilmFinderApi.dll
+C:\Users\user\Desktop\project\New folder\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\FilmFinderApi.pdb
+C:\Users\user\Desktop\project\New folder\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\user\Desktop\project\New folder\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\user\Desktop\project\New folder\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\DnsClient.dll
+C:\Users\user\Desktop\project\New folder\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\user\Desktop\project\New folder\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\user\Desktop\project\New folder\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\user\Desktop\project\New folder\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\user\Desktop\project\New folder\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\user\Desktop\project\New folder\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\user\Desktop\project\New folder\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\Snappier.dll
+C:\Users\user\Desktop\project\New folder\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Desktop\project\New folder\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Desktop\project\New folder\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Desktop\project\New folder\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\user\Desktop\project\New folder\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\user\Desktop\project\New folder\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\user\Desktop\project\New folder\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\user\Desktop\project\New folder\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\project\New folder\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\project\New folder\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\project\New folder\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.AssemblyInfo.cs
+C:\Users\user\Desktop\project\New folder\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\project\New folder\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\project\New folder\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\project\New folder\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.sourcelink.json
+C:\Users\user\Desktop\project\New folder\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\user\Desktop\project\New folder\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\user\Desktop\project\New folder\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\staticwebassets\msbuild.FilmFinderApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Desktop\project\New folder\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\staticwebassets\msbuild.build.FilmFinderApi.props
+C:\Users\user\Desktop\project\New folder\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FilmFinderApi.props
+C:\Users\user\Desktop\project\New folder\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FilmFinderApi.props
+C:\Users\user\Desktop\project\New folder\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\user\Desktop\project\New folder\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\scopedcss\bundle\FilmFinderApi.styles.css
+C:\Users\user\Desktop\project\New folder\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFind.D9EB1D71.Up2Date
+C:\Users\user\Desktop\project\New folder\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.dll
+C:\Users\user\Desktop\project\New folder\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\refint\FilmFinderApi.dll
+C:\Users\user\Desktop\project\New folder\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.pdb
+C:\Users\user\Desktop\project\New folder\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.genruntimeconfig.cache
+C:\Users\user\Desktop\project\New folder\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\ref\FilmFinderApi.dll
+D:\project-8sept\FilmFinder\PreFinalProj\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\appsettings.Development.json
+D:\project-8sept\FilmFinder\PreFinalProj\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\appsettings.json
+D:\project-8sept\FilmFinder\PreFinalProj\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\FilmFinderApi.exe
+D:\project-8sept\FilmFinder\PreFinalProj\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\FilmFinderApi.deps.json
+D:\project-8sept\FilmFinder\PreFinalProj\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\FilmFinderApi.runtimeconfig.json
+D:\project-8sept\FilmFinder\PreFinalProj\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\FilmFinderApi.dll
+D:\project-8sept\FilmFinder\PreFinalProj\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\FilmFinderApi.pdb
+D:\project-8sept\FilmFinder\PreFinalProj\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\AWSSDK.Core.dll
+D:\project-8sept\FilmFinder\PreFinalProj\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+D:\project-8sept\FilmFinder\PreFinalProj\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\DnsClient.dll
+D:\project-8sept\FilmFinder\PreFinalProj\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\project-8sept\FilmFinder\PreFinalProj\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\MongoDB.Bson.dll
+D:\project-8sept\FilmFinder\PreFinalProj\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\MongoDB.Driver.dll
+D:\project-8sept\FilmFinder\PreFinalProj\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+D:\project-8sept\FilmFinder\PreFinalProj\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+D:\project-8sept\FilmFinder\PreFinalProj\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\SharpCompress.dll
+D:\project-8sept\FilmFinder\PreFinalProj\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\Snappier.dll
+D:\project-8sept\FilmFinder\PreFinalProj\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\project-8sept\FilmFinder\PreFinalProj\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\project-8sept\FilmFinder\PreFinalProj\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\project-8sept\FilmFinder\PreFinalProj\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\ZstdSharp.dll
+D:\project-8sept\FilmFinder\PreFinalProj\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+D:\project-8sept\FilmFinder\PreFinalProj\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+D:\project-8sept\FilmFinder\PreFinalProj\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+D:\project-8sept\FilmFinder\PreFinalProj\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.csproj.AssemblyReference.cache
+D:\project-8sept\FilmFinder\PreFinalProj\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\project-8sept\FilmFinder\PreFinalProj\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.AssemblyInfoInputs.cache
+D:\project-8sept\FilmFinder\PreFinalProj\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.AssemblyInfo.cs
+D:\project-8sept\FilmFinder\PreFinalProj\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.csproj.CoreCompileInputs.cache
+D:\project-8sept\FilmFinder\PreFinalProj\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.MvcApplicationPartsAssemblyInfo.cs
+D:\project-8sept\FilmFinder\PreFinalProj\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.MvcApplicationPartsAssemblyInfo.cache
+D:\project-8sept\FilmFinder\PreFinalProj\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.sourcelink.json
+D:\project-8sept\FilmFinder\PreFinalProj\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\project-8sept\FilmFinder\PreFinalProj\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\staticwebassets.development.json
+D:\project-8sept\FilmFinder\PreFinalProj\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\staticwebassets\msbuild.FilmFinderApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\project-8sept\FilmFinder\PreFinalProj\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\staticwebassets\msbuild.build.FilmFinderApi.props
+D:\project-8sept\FilmFinder\PreFinalProj\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FilmFinderApi.props
+D:\project-8sept\FilmFinder\PreFinalProj\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FilmFinderApi.props
+D:\project-8sept\FilmFinder\PreFinalProj\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\staticwebassets.pack.json
+D:\project-8sept\FilmFinder\PreFinalProj\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\scopedcss\bundle\FilmFinderApi.styles.css
+D:\project-8sept\FilmFinder\PreFinalProj\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFind.D9EB1D71.Up2Date
+D:\project-8sept\FilmFinder\PreFinalProj\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.dll
+D:\project-8sept\FilmFinder\PreFinalProj\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\refint\FilmFinderApi.dll
+D:\project-8sept\FilmFinder\PreFinalProj\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.pdb
+D:\project-8sept\FilmFinder\PreFinalProj\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.genruntimeconfig.cache
+D:\project-8sept\FilmFinder\PreFinalProj\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\ref\FilmFinderApi.dll
+C:\Users\balak\Desktop\10-09-2024 dummy\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\balak\Desktop\10-09-2024 dummy\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\appsettings.json
+C:\Users\balak\Desktop\10-09-2024 dummy\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\FilmFinderApi.exe
+C:\Users\balak\Desktop\10-09-2024 dummy\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\FilmFinderApi.deps.json
+C:\Users\balak\Desktop\10-09-2024 dummy\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\FilmFinderApi.runtimeconfig.json
+C:\Users\balak\Desktop\10-09-2024 dummy\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\FilmFinderApi.dll
+C:\Users\balak\Desktop\10-09-2024 dummy\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\FilmFinderApi.pdb
+C:\Users\balak\Desktop\10-09-2024 dummy\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\balak\Desktop\10-09-2024 dummy\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\balak\Desktop\10-09-2024 dummy\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\DnsClient.dll
+C:\Users\balak\Desktop\10-09-2024 dummy\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\balak\Desktop\10-09-2024 dummy\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\balak\Desktop\10-09-2024 dummy\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\balak\Desktop\10-09-2024 dummy\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\balak\Desktop\10-09-2024 dummy\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\balak\Desktop\10-09-2024 dummy\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\balak\Desktop\10-09-2024 dummy\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\Snappier.dll
+C:\Users\balak\Desktop\10-09-2024 dummy\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\balak\Desktop\10-09-2024 dummy\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\balak\Desktop\10-09-2024 dummy\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\balak\Desktop\10-09-2024 dummy\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\balak\Desktop\10-09-2024 dummy\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\balak\Desktop\10-09-2024 dummy\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\balak\Desktop\10-09-2024 dummy\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\balak\Desktop\10-09-2024 dummy\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.csproj.AssemblyReference.cache
+C:\Users\balak\Desktop\10-09-2024 dummy\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\balak\Desktop\10-09-2024 dummy\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.AssemblyInfoInputs.cache
+C:\Users\balak\Desktop\10-09-2024 dummy\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.AssemblyInfo.cs
+C:\Users\balak\Desktop\10-09-2024 dummy\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.csproj.CoreCompileInputs.cache
+C:\Users\balak\Desktop\10-09-2024 dummy\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\balak\Desktop\10-09-2024 dummy\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\balak\Desktop\10-09-2024 dummy\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.sourcelink.json
+C:\Users\balak\Desktop\10-09-2024 dummy\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\balak\Desktop\10-09-2024 dummy\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\balak\Desktop\10-09-2024 dummy\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\staticwebassets\msbuild.FilmFinderApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\balak\Desktop\10-09-2024 dummy\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\staticwebassets\msbuild.build.FilmFinderApi.props
+C:\Users\balak\Desktop\10-09-2024 dummy\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FilmFinderApi.props
+C:\Users\balak\Desktop\10-09-2024 dummy\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FilmFinderApi.props
+C:\Users\balak\Desktop\10-09-2024 dummy\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\balak\Desktop\10-09-2024 dummy\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\scopedcss\bundle\FilmFinderApi.styles.css
+C:\Users\balak\Desktop\10-09-2024 dummy\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFind.D9EB1D71.Up2Date
+C:\Users\balak\Desktop\10-09-2024 dummy\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.dll
+C:\Users\balak\Desktop\10-09-2024 dummy\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\refint\FilmFinderApi.dll
+C:\Users\balak\Desktop\10-09-2024 dummy\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.pdb
+C:\Users\balak\Desktop\10-09-2024 dummy\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.genruntimeconfig.cache
+C:\Users\balak\Desktop\10-09-2024 dummy\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\ref\FilmFinderApi.dll
+C:\Users\Administrator\Desktop\9-Sep_Proj\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Administrator\Desktop\9-Sep_Proj\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\appsettings.json
+C:\Users\Administrator\Desktop\9-Sep_Proj\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\FilmFinderApi.exe
+C:\Users\Administrator\Desktop\9-Sep_Proj\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\FilmFinderApi.deps.json
+C:\Users\Administrator\Desktop\9-Sep_Proj\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\FilmFinderApi.runtimeconfig.json
+C:\Users\Administrator\Desktop\9-Sep_Proj\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\FilmFinderApi.dll
+C:\Users\Administrator\Desktop\9-Sep_Proj\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\FilmFinderApi.pdb
+C:\Users\Administrator\Desktop\9-Sep_Proj\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\Administrator\Desktop\9-Sep_Proj\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\Administrator\Desktop\9-Sep_Proj\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\DnsClient.dll
+C:\Users\Administrator\Desktop\9-Sep_Proj\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Administrator\Desktop\9-Sep_Proj\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\Administrator\Desktop\9-Sep_Proj\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\Administrator\Desktop\9-Sep_Proj\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\Administrator\Desktop\9-Sep_Proj\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\Administrator\Desktop\9-Sep_Proj\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\Administrator\Desktop\9-Sep_Proj\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\Snappier.dll
+C:\Users\Administrator\Desktop\9-Sep_Proj\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Administrator\Desktop\9-Sep_Proj\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Administrator\Desktop\9-Sep_Proj\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Administrator\Desktop\9-Sep_Proj\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Administrator\Desktop\9-Sep_Proj\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Administrator\Desktop\9-Sep_Proj\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Administrator\Desktop\9-Sep_Proj\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Administrator\Desktop\9-Sep_Proj\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\9-Sep_Proj\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\9-Sep_Proj\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\9-Sep_Proj\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\9-Sep_Proj\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\9-Sep_Proj\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Administrator\Desktop\9-Sep_Proj\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Desktop\9-Sep_Proj\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.sourcelink.json
+C:\Users\Administrator\Desktop\9-Sep_Proj\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\Desktop\9-Sep_Proj\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Administrator\Desktop\9-Sep_Proj\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\staticwebassets\msbuild.FilmFinderApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Administrator\Desktop\9-Sep_Proj\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\staticwebassets\msbuild.build.FilmFinderApi.props
+C:\Users\Administrator\Desktop\9-Sep_Proj\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FilmFinderApi.props
+C:\Users\Administrator\Desktop\9-Sep_Proj\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FilmFinderApi.props
+C:\Users\Administrator\Desktop\9-Sep_Proj\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Administrator\Desktop\9-Sep_Proj\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\scopedcss\bundle\FilmFinderApi.styles.css
+C:\Users\Administrator\Desktop\9-Sep_Proj\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFind.D9EB1D71.Up2Date
+C:\Users\Administrator\Desktop\9-Sep_Proj\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.dll
+C:\Users\Administrator\Desktop\9-Sep_Proj\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\refint\FilmFinderApi.dll
+C:\Users\Administrator\Desktop\9-Sep_Proj\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.pdb
+C:\Users\Administrator\Desktop\9-Sep_Proj\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\9-Sep_Proj\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\ref\FilmFinderApi.dll
+E:\Coding\htmlcss\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.csproj.AssemblyReference.cache
+E:\Coding\htmlcss\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\htmlcss\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.AssemblyInfoInputs.cache
+E:\Coding\htmlcss\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.AssemblyInfo.cs
+E:\Coding\htmlcss\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.csproj.CoreCompileInputs.cache
+E:\Coding\htmlcss\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.MvcApplicationPartsAssemblyInfo.cs
+E:\Coding\htmlcss\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Coding\htmlcss\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.sourcelink.json
+E:\Coding\htmlcss\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.dll
+E:\Coding\htmlcss\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\refint\FilmFinderApi.dll
+E:\Coding\htmlcss\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.pdb
+E:\Coding\htmlcss\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\appsettings.Development.json
+E:\Coding\htmlcss\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\appsettings.json
+E:\Coding\htmlcss\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\FilmFinderApi.exe
+E:\Coding\htmlcss\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\FilmFinderApi.deps.json
+E:\Coding\htmlcss\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\FilmFinderApi.runtimeconfig.json
+E:\Coding\htmlcss\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\FilmFinderApi.dll
+E:\Coding\htmlcss\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\FilmFinderApi.pdb
+E:\Coding\htmlcss\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\AWSSDK.Core.dll
+E:\Coding\htmlcss\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+E:\Coding\htmlcss\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\BCrypt.Net-Next.dll
+E:\Coding\htmlcss\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\DnsClient.dll
+E:\Coding\htmlcss\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Coding\htmlcss\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\MongoDB.Bson.dll
+E:\Coding\htmlcss\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\MongoDB.Driver.dll
+E:\Coding\htmlcss\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+E:\Coding\htmlcss\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+E:\Coding\htmlcss\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\SharpCompress.dll
+E:\Coding\htmlcss\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\Snappier.dll
+E:\Coding\htmlcss\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Coding\htmlcss\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Coding\htmlcss\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Coding\htmlcss\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\ZstdSharp.dll
+E:\Coding\htmlcss\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+E:\Coding\htmlcss\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+E:\Coding\htmlcss\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+E:\Coding\htmlcss\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\staticwebassets.build.json
+E:\Coding\htmlcss\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\staticwebassets.development.json
+E:\Coding\htmlcss\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\staticwebassets\msbuild.FilmFinderApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Coding\htmlcss\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\staticwebassets\msbuild.build.FilmFinderApi.props
+E:\Coding\htmlcss\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FilmFinderApi.props
+E:\Coding\htmlcss\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FilmFinderApi.props
+E:\Coding\htmlcss\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Coding\htmlcss\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\scopedcss\bundle\FilmFinderApi.styles.css
+E:\Coding\htmlcss\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFind.D9EB1D71.Up2Date
+E:\Coding\htmlcss\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.genruntimeconfig.cache
+E:\Coding\htmlcss\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\ref\FilmFinderApi.dll
+D:\CAPSTONE\FilmFinder\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\appsettings.Development.json
+D:\CAPSTONE\FilmFinder\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\appsettings.json
+D:\CAPSTONE\FilmFinder\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\FilmFinderApi.exe
+D:\CAPSTONE\FilmFinder\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\FilmFinderApi.deps.json
+D:\CAPSTONE\FilmFinder\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\FilmFinderApi.runtimeconfig.json
+D:\CAPSTONE\FilmFinder\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\FilmFinderApi.dll
+D:\CAPSTONE\FilmFinder\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\FilmFinderApi.pdb
+D:\CAPSTONE\FilmFinder\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\AWSSDK.Core.dll
+D:\CAPSTONE\FilmFinder\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+D:\CAPSTONE\FilmFinder\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\CAPSTONE\FilmFinder\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\DnsClient.dll
+D:\CAPSTONE\FilmFinder\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\CAPSTONE\FilmFinder\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\MongoDB.Bson.dll
+D:\CAPSTONE\FilmFinder\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\MongoDB.Driver.dll
+D:\CAPSTONE\FilmFinder\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+D:\CAPSTONE\FilmFinder\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+D:\CAPSTONE\FilmFinder\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\SharpCompress.dll
+D:\CAPSTONE\FilmFinder\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\Snappier.dll
+D:\CAPSTONE\FilmFinder\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\CAPSTONE\FilmFinder\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CAPSTONE\FilmFinder\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\CAPSTONE\FilmFinder\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\ZstdSharp.dll
+D:\CAPSTONE\FilmFinder\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+D:\CAPSTONE\FilmFinder\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+D:\CAPSTONE\FilmFinder\FilmFinder\FilmFInderApi\FilmFinderApi\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+D:\CAPSTONE\FilmFinder\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.csproj.AssemblyReference.cache
+D:\CAPSTONE\FilmFinder\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\CAPSTONE\FilmFinder\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.AssemblyInfoInputs.cache
+D:\CAPSTONE\FilmFinder\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.AssemblyInfo.cs
+D:\CAPSTONE\FilmFinder\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.csproj.CoreCompileInputs.cache
+D:\CAPSTONE\FilmFinder\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.MvcApplicationPartsAssemblyInfo.cs
+D:\CAPSTONE\FilmFinder\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.MvcApplicationPartsAssemblyInfo.cache
+D:\CAPSTONE\FilmFinder\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.sourcelink.json
+D:\CAPSTONE\FilmFinder\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\CAPSTONE\FilmFinder\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\staticwebassets.development.json
+D:\CAPSTONE\FilmFinder\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\staticwebassets\msbuild.FilmFinderApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\CAPSTONE\FilmFinder\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\staticwebassets\msbuild.build.FilmFinderApi.props
+D:\CAPSTONE\FilmFinder\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FilmFinderApi.props
+D:\CAPSTONE\FilmFinder\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FilmFinderApi.props
+D:\CAPSTONE\FilmFinder\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\staticwebassets.pack.json
+D:\CAPSTONE\FilmFinder\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\scopedcss\bundle\FilmFinderApi.styles.css
+D:\CAPSTONE\FilmFinder\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFind.D9EB1D71.Up2Date
+D:\CAPSTONE\FilmFinder\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.dll
+D:\CAPSTONE\FilmFinder\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\refint\FilmFinderApi.dll
+D:\CAPSTONE\FilmFinder\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.pdb
+D:\CAPSTONE\FilmFinder\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\FilmFinderApi.genruntimeconfig.cache
+D:\CAPSTONE\FilmFinder\FilmFinder\FilmFInderApi\FilmFinderApi\obj\Debug\net8.0\ref\FilmFinderApi.dll
